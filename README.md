@@ -7,3 +7,5 @@ Si l Uranium ... Capture un 'eutron et si le plutonium 239 résultant de réacti
 U... + neutron + plutonium 239 = plutonium 238 + plutonium 238
 
 Exacte au dessus ! Nous avons deux fois le plutonium 238 ! Mais cela nous permet pas de définir la deuxième cellule de production parfaite mais cela nous aide à dire que nous pouvons revalider les 238 modèle découlant de oarc vont ensuite être validé. En quelque minutes voir une minute, on a devalide et revalider des modèles. Donc pour être plus précis dans l'étude fonctionnelle des sorties de modèles physiques ou mathématiques, on devra multiplier l'équation
+
+see: https://www.quora.com/We-re-running-low-on-plutonium-Can-we-find-it-on-other-planets
